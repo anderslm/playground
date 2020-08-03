@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-08-03T13:47:20.491Z" agent="5.0 (Windows)" etag="XCP3DqUe8Vr29yGI5rBl" version="13.5.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-08-03T13:53:21.058Z" agent="5.0 (Windows)" etag="h54cr_lYaa0-zUsEKP07" version="13.5.8" type="github">
   <diagram id="Z_YRt1cANfMzZOyPjrWE" name="Page-1">
-    <mxGraphModel dx="1038" dy="547" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1483" dy="781" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -63,6 +63,9 @@
           <mxGeometry x="-0.2364" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="n5vUmDv9mW02rDi4R6R6-3" value="&lt;div&gt;Contract negotiations?&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;fontSize=19;" vertex="1" parent="1">
+          <mxGeometry x="205" y="525" width="210" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
